@@ -1,1 +1,1 @@
-# Flare by XenonPy - MIT License
+# Flare by XenonPy - Unlicense
